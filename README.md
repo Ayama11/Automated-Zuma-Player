@@ -50,5 +50,11 @@ This project strengthened my experience in:
 - motion analysis and object detection
 - decision-making under dynamic visual conditions
 
+## Screenshots
+![ROI Detection](assets/roi-detection.png)
+![Ball Detection](assets/ball-detected.png)
+![Shooter Detection](assets/shooter-detected.png)
+
+
 ## Notes
 This project uses classical computer vision only and does not rely on machine learning models.
