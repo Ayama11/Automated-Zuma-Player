@@ -51,9 +51,9 @@ This project strengthened my experience in:
 - decision-making under dynamic visual conditions
 
 ## Screenshots
-![ROI Detection](roi-detection.png)
-![Ball Detection](ball-detected.png)
-![Shooter Detection](Shooter_detected.png)
+![ROI Detection](ROI_detection.jpg)
+![Ball Detection](balls_detected.jpg)
+![Shooter Detection](Shooter_detected.jpg)
 
 
 ## Notes
